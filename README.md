@@ -140,7 +140,8 @@ const res = await api.get('/me')
 
 ## 📸 Screenshots
 
-> *(Ajouter ici des captures d’écran de l’UI une fois prête)*
+> <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3ad62b43-b185-4586-96e4-8aa4ea552e49" />
+
 
 
 ## 📚 Ressources utiles
