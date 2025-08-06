@@ -156,8 +156,11 @@ const res = await api.get('/me')
 ## 👨‍💻 Auteur
 
 **Christian Mandika**
-Développeur Fullstack | Passionné par 1 & 0.
-📫 *[LinkedIn](https://www.linkedin.com/in/christian-mandika-77690424a/)*
+Développeur Fullstack & Graphiste | Passionné par 1 & 0.
+📫
+*[LinkedIn](https://www.linkedin.com/in/christian-mandika-77690424a/)*
+*[Behance](https://www.behance.net/christimandika)*
+*[Facebook](https://facebook.com/unthinkablename)*
 
 
 ## 📝 Licence
