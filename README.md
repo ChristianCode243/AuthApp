@@ -157,7 +157,7 @@ const res = await api.get('/me')
 
 **Christian Mandika**
 Développeur Fullstack | Passionné par 1 & 0.
-📫 *\[LinkedIn](https://www.linkedin.com/in/christian-mandika-77690424a/)*
+📫 *[LinkedIn](https://www.linkedin.com/in/christian-mandika-77690424a/)*
 
 
 ## 📝 Licence
