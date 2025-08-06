@@ -156,8 +156,8 @@ const res = await api.get('/me')
 ## 👨‍💻 Auteur
 
 **Christian Mandika**
-Développeur Fullstack | Passionné par l’automatisation, les solutions simples, et la création de produits utiles.
-📫 *\[LinkedIn / Portfolio / GitHub à insérer ici]*
+Développeur Fullstack | Passionné par 1 & 0.
+📫 *\[LinkedIn](https://www.linkedin.com/in/christian-mandika-77690424a/)*
 
 
 ## 📝 Licence
